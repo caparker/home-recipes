@@ -1,0 +1,30 @@
+,#+TITLE: Week of <2025-01-13 Mon>–<2025-01-19 Sun>
+,#+PROPERTY: week 2025-W03
+
+,* Menu
+| Day | Meal | Recipe                  | Notes |
+|-----+------+-------------------------+-------|
+| Mon |      | [[file:../recipes/.md][]] |       |
+| Tue |      | [[file:../recipes/.md][]] |       |
+| Wed |      | [[file:../recipes/.md][]] |       |
+| Thu |      | [[file:../recipes/.md][]] |       |
+| Fri |      | [[file:../recipes/.md][]] |       |
+| Sat |      | [[file:../recipes/.md][]] |       |
+| Sun |      | [[file:../recipes/.md][]] |       |
+
+,* Prep-ahead plan
+- Sunday ::
+- Monday ::
+- Midweek ::
+
+,* Shopping list
+,** Produce
+,** Protein & refrigerated
+,** Pantry
+,** Already have
+
+,* Retro
+- What worked ::
+- What didn't ::
+- Add to rotation ::
+- Never again ::
