@@ -1,7 +1,7 @@
 # Meal Planning
 
 ## Weekly workflow
-1. `cp templates/week.md weeks/$(date +%Y-W%V).md`
+1. `cp templates/week.org weeks/$(date +%Y-W%V).org`
 2. Open in Emacs, use gptel to draft menu from `meals.csv`
 3. Fill in shopping list, commit, push
 4. Copy shopping list into AnyList
