@@ -1,0 +1,181 @@
+season,week,meal,type,protein
+Summer,1,"Cereal, Bananas, Milk",AM Snack,Bean
+Summer,1,"Turkey wraps with sliced turkey, cheese, hummus and greens in a whole wheat tortilla; House Pickles; Seasonal Fruit; Milk",Lunch,Bean
+Summer,1,"Sliced Apples with house-made Sunflower Butter, Water",PM Snack,Bean
+Summer,1,"Carrot Raisin Bread, Milk",AM Snack,Bean
+Summer,1,"Southwest chicken salad over rice Shredded chicken, corn, black beans, tomato, cilantro-lime yogurt dressing, lettuce; Roasted Sweet Potatoes; Seasonal Fresh Fruit; Milk",Lunch,Bean
+Summer,1,"Fruit smoothies with berries, bananas, yogurt and juice; Graham Crackers",PM Snack,Bean
+Summer,1,"Greek yogurt and granola, Milk",AM Snack,Soy
+Summer,1,"Tofu Teriyaki Bowls Baked tofu, cabbage, carrots, edamame, cucumber, sesame; Roasted Broccoli; Seasonal Fresh Fruit; Milk",Lunch,Soy
+Summer,1,"Fresh sliced veggies; House-made Ranch, Water",PM Snack,Soy
+Summer,1,"Toasted english muffins with butter, Milk",AM Snack,Legume
+Summer,1,"Lentil Shepherd's Pie; Roasted Brussel Sprouts with balsamic glaze; Seasonal Fruit; Milk",Lunch,Legume
+Summer,1,"Nut free trail mix with chex, cheerios, pumpkin and sunflower seeds, craisins, Water",PM Snack,Legume
+Summer,1,"Apple Cinnamon Oatmeal with bananas, Milk",AM Snack,Meat
+Summer,1,"Chef's Choice; Seasonal Fresh Fruit; Seasonal Veggies; Milk",Lunch,Meat
+Summer,1,"Jam Bars, Water",PM Snack,Meat
+Summer,2,"Fresh fruit salad with Granola, Milk",AM Snack,Legume
+Summer,2,"Veggie soup with corn, green beans, zucchini carrot, potato, onion and red beans; Seasoned puffed pastry; Fresh Fruit; Milk",Lunch,Legume
+Summer,2,"Roasted chickpeas served with sliced cucumber, Water",PM Snack,Legume
+Summer,2,"Cottage Cheese with Peaches, Water",AM Snack,Legume
+Summer,2,"Tuna Salad Sandwich with celery, red onion, lemon and herbs on a bun; House pickles; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,2,"Zucchini Bread, Milk",PM Snack,Legume
+Summer,2,"Scrambled eggs with spinach and goat cheese, Water",AM Snack,Fish
+Summer,2,"Vegetable Fried Rice with Tofu Carrots, celery, edamame, broccoli, cabbage, green onion, sesame; Seasonal fresh fruit; Milk",Lunch,Fish
+Summer,2,"Black bean and corn salsa; Tortilla chips, Water",PM Snack,Fish
+Summer,2,"Cereal, Sliced bananas, Milk",AM Snack,Meat
+Summer,2,"Sheet Pan Gnocchi Broccolini, cherry tomatoes, feta, red onion, white beans; Green Salad; Seasonal Fruit; Milk",Lunch,Meat
+Summer,2,"Green Goddess Dip; Fresh Veggies, Water",PM Snack,Meat
+Summer,2,"Pancakes with Jam, Water",AM Snack,Meat
+Summer,2,"Chef's Choice; Roasted Vegetables; Seasonal Fruit; Milk",Lunch,Meat
+Summer,2,"Asparagus and Parmesan tarts with balsamic glaze, Water",PM Snack,Meat
+Summer,3,"Bagels, Cream Cheese, Water",AM Snack,Legume
+Summer,3,"Mac and Cheese with a cauliflower, carrots, onion, garlic, white beans and cheese; Brussel Sprouts with Balsamic Glaze; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,3,"Apples and sunflower butter, Water",PM Snack,Legume
+Summer,3,"Apple Cinnamon Oatmeal with bananas, Milk",AM Snack,Legume
+Summer,3,"Picadillo served with Rice Ground chicken, yukon potatoes, onion, garlic, peppers, carrots, peas, veggie stock; Roasted Broccoli; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,3,"Hummus with warm Pita, Water",PM Snack,Legume
+Summer,3,"Fruit Smoothies with yogurt",AM Snack,Legume
+Summer,3,"Caprese Sandwiches Mozzarella cheese, fresh tomato slices, white bean pesto, balsamic glaze; Roasted Sweet Potato Chips; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,3,"Nut free trail mix with chex, cheerios, pumpkin and sunflower seeds, craisins, Water",PM Snack,Legume
+Summer,3,"Cereal, Bananas, Milk",AM Snack,Meat
+Summer,3,"Chili with ground tofu, pinto beans, peppers, onion, garlic and fire roasted tomatoes; Fresh cornbread; Seasonal Fresh Fruit; Milk",Lunch,Meat
+Summer,3,"Hand cut cheese and crackers, Water",PM Snack,Meat
+Summer,3,"Pancakes, Jam, Milk",AM Snack,Meat
+Summer,3,"Chef's Choice; Seasonal Veggies; Seasonal Fresh Fruit; Milk",Lunch,Meat
+Summer,3,"Yogurt Berry Bark, Water",PM Snack,Meat
+Summer,4,"Cereal, Bananas, Milk",AM Snack,Soy
+Summer,4,"Cold Sesame Miso Noodles Bok choy, cucumber, snap peas, corn, mushrooms and tofu; Fresh Fruit; Milk",Lunch,Soy
+Summer,4,"Fresh Seasonal Fruit; Hand cut cheese, Water",PM Snack,Soy
+Summer,4,"Cottage Cheese with Peaches, Water",AM Snack,Legume
+Summer,4,"Orzo Salad with chickpeas, roasted red peppers, red onion, cherry tomatoes, arugula, artichoke hearts, olives, and feta, with a house made pesto; Seasonal Fruit; Milk",Lunch,Legume
+Summer,4,"Jam Bars, Water",PM Snack,Legume
+Summer,4,"Fresh Fruit; Sunflower Butter, Milk",AM Snack,Meat
+Summer,4,"Beef Sliders with Cheese; House Pickles; Seasonal Fruit; Milk",Lunch,Meat
+Summer,4,"Salsa and Chips, Water",PM Snack,Meat
+Summer,4,"Greek Yogurt and Granola, Water",AM Snack,Bean
+Summer,4,"Enchiladas Beans, peppers, cheese, zucchini, olives, house enchilada sauce; Fresh Salad; Seasonal Fruit; Milk",Lunch,Bean
+Summer,4,"Freshly sliced veggies; House-made Ranch, Water",PM Snack,Bean
+Summer,4,"Scrambled Eggs with Spinach and Goat cheese, Milk",AM Snack,Meat
+Summer,4,"Chef's Choice; Roasted Vegetables; Seasonal Fruit; Milk",Lunch,Meat
+Summer,4,"Oatmeal Craisin Cookies, Water",PM Snack,Meat
+Summer,5,"Cereal, Bananas, Milk",AM Snack,Legume
+Summer,5,"Sloppy Joes made with lentils, mushrooms, spinach, tomatoes, and cheese on a bun; Roasted Carrots; Seasonal Fruit; Milk",Lunch,Legume
+Summer,5,"Hummus with Warm Pita, Water",PM Snack,Legume
+Summer,5,"Bagels, Cream Cheese, Water",AM Snack,Legume
+Summer,5,"Vegetable Curry Green beans, carrots, potato, broccoli, peppers, chickpeas; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,5,"Hand Cut Cheese; Crackers, Water",PM Snack,Legume
+Summer,5,"Apple Cinnamon Oatmeal, Bananas, Milk",AM Snack,Fish
+Summer,5,"Sushi bowls with seasoned rice, edamame, carrots, quick pickle cucumber, sesame, and tuna with Furikake seasoning; Seasonal Fresh Fruit; Milk",Lunch,Fish
+Summer,5,"Puff Pastry Cheese Sticks; Marinara Sauce, Water",PM Snack,Fish
+Summer,5,"Fresh Fruit Salad with Granola, Water",AM Snack,Legume
+Summer,5,"Pizza!; Fresh Salad; Seasonal Fresh Fruit; Milk",Lunch,Legume
+Summer,5,"Nut free trail mix with chex, cheerios, pumpkin and sunflower seeds, craisins, Water",PM Snack,Legume
+Summer,5,"Pancakes, Jam, Milk",AM Snack,Meat
+Summer,5,"Chef's Choice; Seasonal Fresh Fruit; Seasonal veggies; Milk",Lunch,Meat
+Summer,5,"Sliced Fruit with house made Sunflower Butter, Water",PM Snack,Meat
+Summer,6,"Cottage Cheese, Peaches, Water",AM Snack,Soy
+Summer,6,"Yakisoba noodles with tofu, onions, peppers, snap peas, cabbage, broccoli and pineapple teriyaki sauce; Seasonal Fresh Fruit; Milk",Lunch,Soy
+Summer,6,"Roasted Chickpeas; Sliced Cucumber, Water",PM Snack,Soy
+Summer,6,"Cream of Wheat, Fresh Berries, Milk",AM Snack,Bean
+Summer,6,"Sunflower and Jam Sandwiches; Steamed Carrots; Seasonal Fresh Fruit; Milk",Lunch,Bean
+Summer,6,"Fresh sliced veggies; House-made Ranch, Water",PM Snack,Bean
+Summer,6,"Cereal, Sliced Bananas, Milk",AM Snack,Bean
+Summer,6,"Lentil Soup Kale, fire roasted tomatoes, potatoes, onions, carrots, celery, fresh parsley; Crackers; Seasonal Fresh Fruit; Milk",Lunch,Bean
+Summer,6,"Zucchini Bread, Water",PM Snack,Bean
+Summer,6,"Scrambled eggs with Spinach and Goat Cheese, Water",AM Snack,Fish
+Summer,6,"Mashed Potato Bowl with creamy garlic mashed potatoes topped with chicken, cheese, corn and red bean succotash; Roasted Squash; Seasonal Fresh Fruit; Milk",Lunch,Fish
+Summer,6,"Green Goddess Dip; Fresh Veggies, Water",PM Snack,Fish
+Summer,6,"Fruit smoothies with yogurt and juice, Water",AM Snack,Meat
+Summer,6,"Chef's Choice; Roasted Vegetables; Seasonal Fresh Fruit; Milk",Lunch,Meat
+Summer,6,"Vegetable Tarts, Water",PM Snack,Meat
+Winter,1,"Yogurt, House-made Granola, Water",AM Snack,Meat
+Winter,1,"Baked Ziti with Spinach, Tomato Sauce, Ricotta Cheese, Mozzarella, Turkey; Fresh Fruit; Fresh Salad; Milk",Lunch,Meat
+Winter,1,"Joyful Noise Chex Mix Chex, Cheerios, sunflower seeds, pepitas, pretzels, craisins, Water",PM Snack,Meat
+Winter,1,"Oatmeal, Fresh Fruit, Milk",AM Snack,Meat
+Winter,1,"Turkey Sandwiches Pesto White Bean Puree w/ Greens and Cheese on Sliced Bread; House Made Pickles; Fresh Fruit; Milk",Lunch,Meat
+Winter,1,"Salsa and Tortilla Chips, Water",PM Snack,Meat
+Winter,1,"Cereal, Sliced Bananas, Milk",AM Snack,Bean
+Winter,1,"Butternut Squash Soup Butternut Squash, Potatoes, White Beans, Vegetable stock, Cream; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Bean
+Winter,1,"Asparagus and Parmesan Puff Pastry with Balsamic Glaze, Water",PM Snack,Bean
+Winter,1,"Pancakes, House-made Jam, Milk",AM Snack,Legume
+Winter,1,"Lentil Picadillo Lentils, Potatoes, Carrots, Green Beans, Peas, Tomato, Spices Served over Rice; Fresh Fruit; Milk",Lunch,Legume
+Winter,1,"Fruit Smoothies with Yogurt; Graham Crackers",PM Snack,Legume
+Winter,1,"Bagels, Cream Cheese, Milk",AM Snack,Legume
+Winter,1,"Chefs Choice Lunch; Fresh Fruit; Roasted Vegetables; Milk",Lunch,Legume
+Winter,1,"Sunbutter and Fresh Fruit, Water",PM Snack,Legume
+Winter,2,"English Muffins, Butter or Jam, Milk",AM Snack,Bean
+Winter,2,"Mashed Potato Bowl with Red Bean and Corn Succotash, Chicken, Cheese; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Bean
+Winter,2,"Ranch Dip and Fresh Vegetables, Water",PM Snack,Bean
+Winter,2,"Scrambled Eggs w/ Spinach and Cheese, Water",AM Snack,Bean
+Winter,2,"Ramen Bowls with Vegetable Stock, Edamame, Corn, Spinach, Bok Choy, Seasoned Baked Tofu, Green Onion; Fresh Fruit; Milk",Lunch,Bean
+Winter,2,"Broccoli Cheddar Puff Pastry Bites with Balsamic Glaze, Water",PM Snack,Bean
+Winter,2,"Cream of Wheat with Berries, Milk",AM Snack,Meat
+Winter,2,"Lentil Sloppy Joes with Mushrooms and Spinach; Roasted Vegetables; Seasonal Fruit; Milk",Lunch,Meat
+Winter,2,"Crispy Chickpeas and Cucumber Slices, Water",PM Snack,Meat
+Winter,2,"Cottage Cheese, Peaches or Berries, Water",AM Snack,Meat
+Winter,2,"Loaded Veggie Fajitas with Chicken, Black Beans, Peppers, Onion, Veggies, Garlic, Oregano Served with Rice; Fresh Fruit; Milk",Lunch,Meat
+Winter,2,"Pumpkin Bread, Milk",PM Snack,Meat
+Winter,2,"Vegan French Toast Sticks, House Jam, Milk",AM Snack,Meat
+Winter,2,"Chef's Choice; Seasonal Vegetables; Seasonal Fresh Fruit; Milk",Lunch,Meat
+Winter,2,"Cheese and Crackers, Water",PM Snack,Meat
+Winter,3,"Yogurt, House-Made Granola, Water",AM Snack,Bean
+Winter,3,"Tomato Bisque; Grilled Cheese with a White Bean Pesto Spread; Fresh Fruit; Milk",Lunch,Bean
+Winter,3,"Sunbutter and Fresh Fruit, Water",PM Snack,Bean
+Winter,3,"Granola Bars, Milk",AM Snack,Egg
+Winter,3,"Quiche with Vegetables and Feta; Fresh Salad; Fresh Fruit; Milk",Lunch,Egg
+Winter,3,"Hummus and Pretzels, Water",PM Snack,Egg
+Winter,3,"Cereal, Bananas, Milk",AM Snack,Meat
+Winter,3,"Baked Chicken Teriyaki with Vegetables and Rice; Fresh Fruit; Milk",Lunch,Meat
+Winter,3,"Cornbread, Milk",PM Snack,Meat
+Winter,3,"Bagels, Cream Cheese, Water",AM Snack,Legume
+Winter,3,"Vegan Bolognese with Ground Tofu or Lentils, Mushrooms, Spinach over Penne Pasta; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Legume
+Winter,3,"Spinach Artichoke Dip; Tortilla Chips, Water",PM Snack,Legume
+Winter,3,"Banana Bread, Milk",AM Snack,Bean
+Winter,3,"Chef's Choice; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Bean
+Winter,3,"Fruit Smoothies with Yogurt; Graham Crackers",PM Snack,Bean
+Winter,4,"Toasted English Muffins, Butter or Jam, Water",AM Snack,Meat
+Winter,4,"Chicken Tortilla Soup with Black Beans, Corn, Peppers, Fire Roasted Tomato, Cheese, House Vegetable Stock, Tortilla Chips; Fresh Fruit; Milk",Lunch,Meat
+Winter,4,"Joyful Noise Chex Mix Chex, Cheerios, Sunflower Seeds, Pepitas, Pretzels, Craisins, Water",PM Snack,Meat
+Winter,4,"Rice Pudding with Cinnamon and Raisins, Milk",AM Snack,Cheese/Egg
+Winter,4,"Sunbutter and Jam Sandwiches; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Cheese/Egg
+Winter,4,"House-Made Ranch with Fresh Vegetables, Water",PM Snack,Cheese/Egg
+Winter,4,"Cereal, Bananas, Milk",AM Snack,Meat
+Winter,4,"Mac n Cheese Cauliflower, Onions, Carrots, and White Bean Cheese Sauce; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Meat
+Winter,4,"Jam Bars, Water",PM Snack,Meat
+Winter,4,"Scrambled Eggs w/ Spinach and Cheese, Water",AM Snack,Legume
+Winter,4,"Pizza! House Dough, Veggies, Cheese, Tomato Sauce; Fresh Salad; Fresh Fruit; Milk",Lunch,Legume
+Winter,4,"Pinto Bean Dip; Tortilla Chips, Water",PM Snack,Legume
+Winter,4,"Cream of Wheat, Berries, Milk",AM Snack,Meat
+Winter,4,"Chef's Choice; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Meat
+Winter,4,"Fruit Salad, Water",PM Snack,Meat
+Winter,5,"Cottage Cheese, Peaches, Water",AM Snack,Bean
+Winter,5,"Quesadillas with Corn, Black Beans, Peppers, Red Onion, Cilantro, Cheese; Fresh Fruit; Milk",Lunch,Bean
+Winter,5,"Salsa and Tortilla Chips, Water",PM Snack,Bean
+Winter,5,"Cereal, Bananas, Milk",AM Snack,Bean/Cheese
+Winter,5,"Yakisoba Noodles with Cabbage, Snap Peas, Peppers, Onions, Green Beans, Carrots, Celery, Broccoli, Garlic, Ginger, Baked Tofu, and Pineapple Teriyaki Sauce; Fresh Fruit; Milk",Lunch,Bean/Cheese
+Winter,5,"Jam Bars, Water",PM Snack,Bean/Cheese
+Winter,5,"Pancakes, Jam, Milk",AM Snack,Soy
+Winter,5,"Butter Chickpeas with Rice and Cilantro-Lime Yogurt Sauce; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Soy
+Winter,5,"Broccoli Cheddar Puff Pastry Bites with Balsamic Glaze, Water",PM Snack,Soy
+Winter,5,"Oatmeal, Berries or Bananas, Milk",AM Snack,Legume
+Winter,5,"Beef Sliders with Cheese; House Pickles; Fresh Fruit; Milk",Lunch,Legume
+Winter,5,"Hummus, Fresh Vegetables, Water",PM Snack,Legume
+Winter,5,"Fruit Smoothies with Yogurt, Water",AM Snack,Meat
+Winter,5,"Chef's Choice; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Meat
+Winter,5,"Cheese, Fresh Fruit, Water",PM Snack,Meat
+Winter,6,"Cereal, Bananas, Milk",AM Snack,Legume
+Winter,6,"BBQ Sandwiches with Slaw; House Pickles; Fresh Fruit; Milk",Lunch,Legume
+Winter,6,"Fruit Smoothies with Yogurt; Graham Crackers, Water",PM Snack,Legume
+Winter,6,"Scrambled Eggs with Spinach and Cheese, Water",AM Snack,Bean
+Winter,6,"Minestrone Soup with Onion, Carrot, Celery, Kale, Green Beans, Ditalini, White Beans, Tomato, Parsley; Crackers; Fresh Fruit; Milk",Lunch,Bean
+Winter,6,"Cranberry Scones, Milk",PM Snack,Bean
+Winter,6,"English Muffins, Butter or Jam, Milk",AM Snack,Bean
+Winter,6,"Enchiladas Peppers, Zucchini, Corn, Black Beans, House Sauce, Cheese; Fresh Salad; Fresh Fruit; Milk",Lunch,Bean
+Winter,6,"Pretzels with Sunbutter, Water",PM Snack,Bean
+Winter,6,"Granola Bars, Milk",AM Snack,Legume
+Winter,6,"Shepherds Pie Ground Chicken, Tomato, Carrot, Onion, Peas, Corn, Potatoes; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Legume
+Winter,6,"Pumpkin Bread, Milk",PM Snack,Legume
+Winter,6,"Cream of Wheat, Berries, Milk",AM Snack,Meat
+Winter,6,"Chef's Choice; Roasted Vegetables; Fresh Fruit; Milk",Lunch,Meat
+Winter,6,"Joyful Noise Chex Mix Chex, Cheerios, Sunflower Seeds, Pepitas, Pretzels, Craisins, Water",PM Snack,Meat
