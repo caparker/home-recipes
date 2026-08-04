@@ -51,3 +51,23 @@ Improves with time. Make at least 1 hour ahead, up to 24 hours. The chill soften
 - Food processor slicing disc turns this into a 5-minute prep job.
 - For a lighter version: swap half the mayo for plain Greek yogurt.
 - Toddler tip: pull a small portion of shredded cabbage + carrot aside pre-dressing; toddlers often prefer plain crunchy veg.
+
+## Adding Pistachios
+
+### Simple version (recommended)
+- Add **1/2 cup shelled roasted pistachios, roughly chopped**, stirred in **just before serving** (not before the chill, or they'll soften).
+
+### Flavor-forward tweaks to pair with pistachios
+- Swap **apple cider vinegar → lemon juice** (1.5 tbsp) for a brighter, more Mediterranean feel.
+- Add **2 tbsp chopped fresh dill or mint** — both love pistachios.
+- Add **zest of 1 lemon** to the dressing.
+
+### Optional additions for a "loaded" pistachio slaw
+- 1/3 cup dried cranberries or golden raisins
+- 2 tbsp crumbled feta (sprinkle on top)
+- A pinch of ground cardamom (1/8 tsp) in the dressing — unexpected but great with pistachios
+
+### Tips
+- **Toast the pistachios** in a dry skillet 2–3 min for deeper flavor.
+- Reserve a small handful to scatter on top for presentation.
+- If serving kids, keep pistachios on the side — whole nuts are a choking hazard under 4, and the crunch is often a texture win for older kids.
