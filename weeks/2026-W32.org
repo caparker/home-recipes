@@ -1,0 +1,76 @@
+#+begin_src org
+#+TITLE: Week of <2025-01-20 Mon>–<2025-01-26 Sun>
+#+PROPERTY: week 2025-W04
+
+* Menu
+| Day | Meal    | Recipe                                           | Notes                            |
+|-----+---------+--------------------------------------------------+----------------------------------|
+| Mon | Dinner  | [[file:../recipes/veggie-fried-rice.md][Veggie fried rice with egg]]         | Use up any weekend rice/veg      |
+| Tue | Dinner  | [[file:../recipes/palak-tofu.md][Palak tofu]] + jasmine rice          |                                  |
+| Wed | Dinner  | [[file:../recipes/grilled-cheese.md][Grilled cheese]] + house salad       | Quick midweek                    |
+| Thu | Dinner  | [[file:../recipes/pasta-bake.md][Pasta bake w/ crumbles]] + green beans | Makes leftovers                  |
+| Fri | Dinner  | [[file:../recipes/sweet-potato-black-bean-tacos.md][Sweet potato & black bean tacos]] + fruit salad |                       |
+| Sat | Dinner  | [[file:../recipes/white-bean-kale-soup.md][White bean & kale soup]] + garlic bread | Soak beans Fri night          |
+| Sun | Dinner  | [[file:../recipes/baked-ziti.md][Baked ziti]] + house salad           | Assemble in AM, bake before dinner |
+
+* Prep-ahead plan
+- Sunday :: Cook big batch of jasmine rice (Mon fried rice + Tue palak tofu). Press & cube tofu for Tuesday. Soak white beans Friday night.
+- Monday :: Chop aromatics/veg for fried rice; use leftover weekend rice if available.
+- Midweek :: Wed grilled cheese needs nothing. Thu pasta bake can be assembled in the morning and baked at dinner.
+- Friday :: Roast sweet potatoes in the afternoon.
+- Sunday :: Assemble baked ziti in the morning; bake before dinner.
+
+* Shopping list
+** Produce
+- Spinach (large bag or 2, for palak tofu)
+- Green beans
+- Kale (1 bunch)
+- Sweet potatoes (2–3 medium)
+- Onions (yellow, 3–4)
+- Garlic (1 head)
+- Ginger (small knob, for palak + fried rice)
+- Scallions
+- Carrots (for fried rice)
+- Frozen peas (for fried rice)
+- Lettuce / salad greens (house salad x2)
+- Salad veg (cucumber, tomato, etc.)
+- Fresh fruit (for Fri fruit salad)
+- Lemon or lime (for tacos)
+- Cilantro
+- Tomatoes (canned, crushed — for pasta bake, ziti, palak base if needed)
+
+** Protein & refrigerated
+- Extra-firm tofu (2 blocks)
+- Eggs
+- Cheese slices (grilled cheese)
+- Mozzarella (ziti + pasta bake)
+- Ricotta or cottage cheese (ziti)
+- Parmesan
+- Veggie crumbles (pasta bake)
+
+** Pantry
+- Pasta — ziti and pasta for bake
+- Marinara or jarred tomato sauce
+- Corn tortillas (tacos)
+- Bread (grilled cheese + garlic bread loaf)
+- Black beans (canned, 2)
+- White beans (dry or canned — cannellini/great northern)
+- Vegetable broth
+- Soy sauce (check stock)
+- Sesame oil (check stock)
+- Garam masala / curry spices (check stock)
+- Taco spices (cumin, chili powder)
+
+** Already have
+- Jasmine rice
+- Butter
+- Olive oil, veg oil, sesame oil
+- Flour, sugar
+- Milk, buttermilk
+- Staple beans (pinto, garbanzo, etc.)
+
+* Retro
+- What worked ::
+- What didn't ::
+- Add to rotation ::
+- Never again ::
