@@ -6,9 +6,9 @@ cuisine: american
 servings: 4
 active_time_min: 10
 total_time_min: 40
-tags: [vegetarian, vegan, gluten-free, kid-friendly, side, fall]
-tools: [chef's knife, sheet-pan, oven]
-pairs_with: [veggie-chili, rice-and-beans, black-bean-quesadillas, white-bean-kale-soup, cuban-black-beans]
+tags: [vegetarian, vegan, gluten-free, side, fall]
+tools: [oven, chef's knife, sheet-pan]
+pairs_with: [veggie-chili, rice-and-beans, black-bean-quesadillas, white-bean-kale-soup, cuban-black-beans-rice]
 source:
 last_made:
 rating:
@@ -16,50 +16,58 @@ rating:
 
 ## Ingredients
 
-- 2 small acorn squash (about 1.25 lb each)
-- 2 tbsp olive oil
-- 3/4 tsp kosher salt
-- 1/4 tsp black pepper
+- 1 medium acorn squash (about 1.25 lb / 570 g)
+- 1 tbsp (15 ml) olive oil
+- 3/4 tsp (4 g) kosher salt
+- 1/4 tsp (0.5 g) black pepper
 
 ## Equipment
 
-- Sharp chef's knife (acorn squash skins are tough)
-- Rimmed sheet pan
-- Parchment paper (optional, for easy cleanup)
+- Sheet pan
+- Chef's knife (heavy — acorn squash is tough)
+- Parchment paper (optional, easier cleanup)
 
 ## Prep-ahead notes
 
-Squash can be halved, seeded, and sliced up to 24 hours ahead; store covered in the fridge. Fully roasted squash keeps 3–4 days refrigerated and reheats well at 375°F for 8–10 min (microwave works but loses the caramelized edges).
+Squash can be halved and seeded up to 2 days ahead; store cut-side down in a container in the fridge. Fully roasted squash keeps 3–4 days refrigerated and reheats well at 375°F for 8–10 minutes. Freezes poorly (gets watery).
 
 ## Instructions
 
-1. Preheat oven to 400°F. Line a sheet pan with parchment if desired.
-2. Halve each squash from stem to tip. Scoop out seeds and strings with a spoon.
-3. Place halves cut-side down and slice into 1-inch-thick half-moons. (Or leave as halves for a hands-off version — see Notes.)
-4. Toss slices with olive oil, salt, and pepper. Arrange in a single layer, not crowded.
-5. Roast 25–30 min, flipping once halfway, until deeply browned on the cut edges and a knife slides in easily.
-6. Taste and adjust salt. Serve warm.
+1. Preheat oven to 400°F (200°C).
+2. Carefully halve the squash from stem to tip. Scoop out seeds and strings with a spoon.
+3. Slice each half into 1-inch (2.5 cm) half-moons, or leave as halves for a more hands-off version.
+4. Toss slices with olive oil, salt, and pepper directly on a sheet pan. If roasting halves, rub oil over cut surfaces and season.
+5. Arrange cut-side down in a single layer. Don't crowd — use two pans if needed.
+6. Roast 25–35 minutes, until a knife slides in with no resistance and the cut side is deeply browned. Flip for the last 5–10 minutes if you want more color on both sides.
+7. Serve warm.
 
 ## Notes
 
-- **Sugar is not required.** Acorn squash caramelizes on its own; added sweetener is a style choice, not a necessity.
-- **Skin is edible** once roasted — soft and mild. Scoop flesh for toddlers if preferred.
-- **Toddler tip:** reserve a few plain slices before adding any glaze or chili; the natural sweetness is usually a hit.
-- **Don't crowd the pan** — spacing is what gives you caramelized edges instead of steamed squash.
+- *Acorn squash is naturally sweet — added sugar is optional, not required.* Roasting alone caramelizes it.
+- The skin is edible once roasted and tender; scoop flesh for the toddler if preferred.
+- Toddler tip: set aside a plain unseasoned portion before adding salt/pepper, or reduce salt on their pieces.
+- A heavy chef's knife and a stable cutting board matter here — microwave the whole squash 2–3 minutes first to soften the skin if it feels dangerous to cut.
 
-### Variations
+## Variations
 
-- **Herby savory:** add 2 cloves grated garlic + 1 tsp fresh thyme or rosemary to the oil before tossing.
-- **Smoky:** add 1/2 tsp smoked paprika + 1/4 tsp cumin. Great alongside black beans or tacos.
-- **Sage brown butter:** after roasting, drizzle with 2 tbsp butter melted with 6 sage leaves until foamy and nutty.
-- **Sweet-savory (my pick):** roast plain, then drizzle with 1–2 tsp maple syrup, a pinch of chili flakes, and a squeeze of lime just before serving.
-- **Classic sweet:** brush slices with 2 tbsp melted butter + 1 tbsp maple syrup during the last 10 min of roasting.
+### Herby savory
+Add 2 cloves minced garlic + 1 tsp fresh thyme (or 1/2 tsp dried) with the oil. Finish with a knob of butter after roasting.
 
-### Halves (hands-off version)
+### Smoky
+Add 1/2 tsp smoked paprika + 1/4 tsp cumin to the oil. Pairs especially well with black beans and tacos.
 
-- Skip slicing. Place halves cut-side down on an oiled sheet pan and roast 35–45 min until a knife slides through easily. Flip for the last 10 min to brown the cut surface. Serve as "boats" — fill with rice and beans, chili, or a grain salad for a main-ish presentation.
+### Sweet-savory (recommended)
+Roast plain as above. After roasting, drizzle with 1–2 tsp maple syrup and a pinch of red pepper flakes or a squeeze of lime. Sweetness supports rather than dominates.
+
+### Classic sweet
+Brush cut sides with 1 tbsp melted butter + 1 tbsp maple syrup before roasting. Watch carefully in the last 10 min — the sugar can scorch.
+
+### Sage-brown-butter finish
+While squash roasts, melt 2 tbsp butter with 6–8 sage leaves over medium heat until butter is nutty-brown and sage is crisp. Spoon over roasted squash.
 #+end_src
 
-A couple of pairing notes for your menu planning:
-- Goes especially well with your *veggie chili + cornbread* week — the sweetness balances the chili heat.
-- The "halves as boats" variation can actually become a main — stuff with the Cuban black beans or veggie chili and it's a meal.
+A few notes on choices I made:
+- Default recipe is savory/plain so it slots into weeknight rotation without reading as dessert.
+- Variations live in the Notes-adjacent section so you can riff without rewriting.
+- Pairings lean toward your bean-heavy mains, which contrast nicely with the squash's sweetness.
+- Grams included for the squash; the other quantities are small enough that volume is more practical than weight.
