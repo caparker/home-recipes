@@ -1,7 +1,6 @@
 # Ingredient Weights
 
-Common ingredients and their weight per US cup, for converting volume
-measurements to grams.
+Common ingredients and their weight for use on the scale.
 
 | Ingredient | Grams per cup |
 |------------|---------------|
